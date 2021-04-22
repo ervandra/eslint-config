@@ -1,0 +1,32 @@
+{
+  "name": "@ervandra/eslint-config",
+  "version": "0.0.1",
+  "description": "Ervandra's default ESLint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ervandra/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript"
+  ],
+  "author": {
+    "name": "Ervandra Halim",
+    "email": "hi@ervandra.dev",
+    "twitter": "@ervandra.dev"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/ervandra/eslint-config",
+  "bugs": {
+    "url": "https://github.com/ervandra/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint": "^6.x.x",
+    "babel-eslint": "^10.x.x",
+    "prettier": "^1.x.x",
+    "eslint-config-prettier": "^6.x.x"
+  }
+}
